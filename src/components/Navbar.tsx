@@ -44,7 +44,7 @@ export default function Navbar() {
             </div> */}
             <div className="w-9 h-9 rounded-lg flex items-center justify-center shadow-md group-hover:shadow-sky-200 transition-shadow duration-300">
                 <img
-                    src="neww.png"
+                    src="https://i.pinimg.com/originals/18/4e/c6/184ec6786e08ade9274216a510390008.png"
                     alt="Logo"
                     className="w-full h-full rounded-lg object-cover"
                 />
